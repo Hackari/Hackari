@@ -12,6 +12,7 @@ TetCTF
 KnightCTF: Top 100
 TSJ CTF
 DiceCTF
+UIUCTF
 
 Languages learnt / learning:
 Python
