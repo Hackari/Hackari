@@ -1,6 +1,6 @@
 Akari
 
-CTFs  
+CTFs  and Hackathons
 2020:  
 STACK The Flags: Top 10  
 2021:  
@@ -12,6 +12,7 @@ TetCTF
 KnightCTF: Top 100  
 TSJ CTF  
 DiceCTF  
+Uber Global Hackathon : Regional Finalist  
 UIUCTF  
 
 Languages learnt / learning:  
